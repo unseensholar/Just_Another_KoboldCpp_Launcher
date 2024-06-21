@@ -25,4 +25,5 @@ The 'hardware' menu has some of the common Koboldcpp model configurations.
 
 The 'save config' option saves all the current settings in a json file. This config will be loaded automatically each time the Launcher is opened, or manually using the 'load config' option. The 'launch' option serves the same purpose as the 'load model' option and launches the Koboldcpp executable with the selected configuration. The launch parameters and endpoint are displayed in the 'quick launch' menu.
 
-![image](https://github.com/Daniel-Dan-Espinoza/Koboldcpp_Launcher/assets/92890439/7b0109a5-d2fd-4feb-bad9-9c7c53863509)
+![image](https://github.com/Daniel-Dan-Espinoza/Just_Another_KoboldCpp_Launcher/assets/92890439/cc0714da-a922-4013-9d60-9b1b91f21272)
+
