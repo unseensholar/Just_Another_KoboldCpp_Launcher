@@ -1,0 +1,20 @@
+{
+    "model_path": "D:/Models",
+    "kcpp_path": "E:/koboldcpp_cu12.exe",
+    "port": "5001",
+    "threads": 4,
+    "blas_batch_size": 512,
+    "context_size": 8192,
+    "gpu_layers": "35",
+    "quantkv_index": 1,
+    "usecublas": "",
+    "multiuser": "1",
+    "password": "",
+    "favorites": [],
+    "launch": true,
+    "smartcontext": true,
+    "noshift": false,
+    "nommap": false,
+    "usemlock": false,
+    "flashattention": true
+}
