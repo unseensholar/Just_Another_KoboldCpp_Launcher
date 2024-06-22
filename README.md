@@ -1,4 +1,4 @@
-# Koboldcpp_Launcher
+# Just Another KoboldCpp Launcher for Windows
 Simple wrapper GUI for Koboldcpp (Requires the Koboldcpp executable and gguf models.).
 
 # What does it do?
