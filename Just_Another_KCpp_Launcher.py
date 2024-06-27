@@ -368,7 +368,7 @@ class ModelLoader(QMainWindow):
             '--port', self.port_input.text(),
             '--host', '',
             '--threads', str(self.threads_slider.value()),
-            '--usecublas',
+            '--usecublas', 'normal', '0',
             '--contextsize', str(self.contextsize_slider.value()),
             '--gpulayers', self.gpu_layers_input.text(),
             '--blasbatchsize', str(self.blas_batch_size_slider.value()),
